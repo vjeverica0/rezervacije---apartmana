@@ -1,0 +1,3 @@
+streamlite
+gspread
+pandas
